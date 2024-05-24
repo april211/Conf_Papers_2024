@@ -5,8 +5,8 @@ bandit
 biolo
 body
 chemic
-cnn
 combinatorial
+computer vision
 crystal
 detection
 differential
@@ -18,8 +18,6 @@ expert
 federated
 fewshot
 forecasting
-highdimension
-image
 knowledge graph
 language model
 llm
@@ -37,12 +35,14 @@ simulation
 spatio
 stochastic optimization
 temporal
-tensor
 texttoimage
 time series
 timeseries
 token
 video
-vision
+vision foundation
+vision model
+vision task
+vision transformer
 workshop
 zeroshot
