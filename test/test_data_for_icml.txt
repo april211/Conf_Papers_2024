@@ -1,0 +1,43 @@
+Cluster-Aware Similarity Diffusion for Instance Retrieval
+Confidence-aware Contrastive Learning for Selective Classification
+Emergent Equivariance in Deep Ensembles
+Two Heads Are Better Than One: Boosting Graph Sparse Training via Semantic and Topological Awareness
+Exploring Correlations of Self-Supervised Tasks for Graphs
+InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning
+Graph Geometry-Preserving Autoencoders
+A Theory of Fault-Tolerant Learning
+Graph Automorphism Group Equivariant Neural Networks
+Graph Generation with Diffusion Mixture
+Self-cognitive Denoising in the Presence of Multiple Noisy Label Sources
+In-Context Learning on Function Classes Unveiled for Transformers
+On the Role of Edge Dependency in Graph Generative Models
+Verifying message-passing neural networks via topology-based bounds tightening
+Attack-free Evaluating and Enhancing Adversarial Robustness on Categorical Data
+Grokking Happens All the Time and Here is Why
+Rethinking Guidance Information to Utilize Unlabeled Samples: A Label Encoding Perspective
+Learning Latent Space Hierarchical EBM Diffusion Models
+Uncertainty for Active Learning on Graphs
+Structure Your Data: Towards Semantic Graph Counterfactuals
+Compression of Structured Data with Autoencoders: Provable Benefit of Nonlinearities and Depth
+Efficient Pareto Manifold Learning with Low-Rank Structure
+Neuro-Visualizer: A Novel Auto-Encoder-Based Loss Landscape Visualization Method With an Application in Knowledge-Guided Machine Learning
+How Spurious Features are Memorized: Precise Analysis for Random and NTK Features
+Improving Equivariant Graph Neural Networks on Large Geometric Graphs via Virtual Nodes Learning
+Learning to Continually Learn with the Bayesian Principle
+Subgraphormer: Unifying Subgraph GNNs and Graph Transformers via Graph Products
+Knowledge Distillation with Auxiliary Variable
+Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching
+Data-free Distillation of Diffusion Models with Bootstrapping
+From Coarse to Fine: Enable Comprehensive Graph Self-supervised Learning with Multi-granular Semantic Ensemble
+Revisit the Essence of Distilling Knowledge through Calibration
+Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification
+Multi-group Learning for Hierarchical Groups
+Learning in Deep Factor Graphs with Gaussian Belief Propagation
+How Interpretable Are Interpretable Graph Neural Networks?
+How Transformers Learn Causal Structure with Gradient Descent
+CKGConv: General Graph Convolution with Continuous Kernels
+Hypergraph-enhanced Dual Semi-supervised Graph Classification
+Cross-domain Open-world Discovery
+Can Implicit Bias Imply Adversarial Robustness?
+On the Expressive Power of Spectral Invariant Graph Neural Networks
+Understanding Heterophily for Graph Neural Networks
