@@ -440,7 +440,7 @@ Graph out-of-distribution (OOD) generalization, aiming to generalize graph neura
 
 </details>
 
-## 44. Distinguishing Neighborhood Representations Through Reverse Process of GNNs for Heterophilic Graphs 🌟
+## 44. Mitigating Oversmoothing Through Reverse Process of GNNs for Heterophilic Graphs 🌟
 
 <details>
 
