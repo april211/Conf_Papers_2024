@@ -1,3 +1,12 @@
+# Description: This script is used to generate the markdown files of the conference paper list.
+
+
+
+# the header of the markdown file
+header = '# IJCAI 2024\n\n'      # '# ICML 2024\n\n', '# IJCAI 2024\n\n', ...
+
+# the conference name
+conf_name = 'ijcai'              # icml, ijcai, ...
 
 
 
@@ -6,9 +15,9 @@ if __name__ == '__main__':
 
     # write the full version
     paper_cnt = -1
-    with open('icml2024_full.md', 'w') as res_file:
-        res_file.write('# ICML 2024\n\n')
-        with open('res/raw/icml/icml_ms.md', 'r') as src_file:
+    with open(f'{conf_name}2024_full.md', 'w') as res_file:
+        res_file.write(header)
+        with open(f'res/raw/{conf_name}/{conf_name}_ms.md', 'r') as src_file:
             title_flag = True
             for line in src_file:
                 if title_flag:                  # title line
@@ -23,9 +32,9 @@ if __name__ == '__main__':
 
     # write the folded version
     paper_cnt = -1
-    with open('icml2024_folded.md', 'w') as res_file:
-        res_file.write('# ICML 2024\n\n')
-        with open('res/raw/icml/icml_ms.md', 'r') as src_file:
+    with open(f'{conf_name}2024_folded.md', 'w') as res_file:
+        res_file.write(header)
+        with open(f'res/raw/{conf_name}/{conf_name}_ms.md', 'r') as src_file:
             title_flag = True
             for line in src_file:
                 if title_flag:                  # title line
