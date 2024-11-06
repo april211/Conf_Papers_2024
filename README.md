@@ -6,11 +6,13 @@ You can also use the code provided in this repository to **generate your own con
 
 ## List of Conferences
 
-1. ICML 2024: [folded_version](./icml2024_folded.md), [full_version](./icml2024_full.md), [NEW: OpenReview Papers](https://openreview.net/group?id=ICML.cc/2024/Conference)
+1. ICML 2024: [folded_version](./icml2024_folded.md), [full_version](./icml2024_full.md), [PDFs](https://openreview.net/group?id=ICML.cc/2024/Conference)
 
 2. IJCAI 2024: [folded_version](./ijcai2024_folded.md), [full_version](./ijcai2024_full.md), [PDFs](https://www.ijcai.org/Proceedings/2024/)
 
 3. KDD 2024: [folded_version](./kdd2024_folded.md), [full_version](./kdd2024_full.md), [PDFs](https://dl.acm.org/doi/proceedings/10.1145/3637528)
+
+4. NeurIPS 2024: [folded_version](./neurips2024_folded.md), [full_version](./neurips2024_full.md), [PDFs](https://openreview.net/group?id=NeurIPS.cc/2024/Conference#tab-accept-oral)
 
 ## How to Generate Your Own Conference Paper List?
 

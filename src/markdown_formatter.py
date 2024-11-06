@@ -3,10 +3,10 @@
 
 
 # the header of the markdown file
-header = '# KDD 2024\n\n'      # '# ICML 2024\n\n', '# IJCAI 2024\n\n', '# KDD 2024\n\n'...
+header = '# NeurIPS 2024\n\n'      # '# ICML 2024\n\n', '# IJCAI 2024\n\n', '# KDD 2024\n\n', '# NeurIPS 2024\n\n'
 
 # the conference name
-conf_name = 'kdd'              # icml, ijcai, kdd...
+conf_name = 'neurips'              # icml, ijcai, kdd, neurips
 
 
 
